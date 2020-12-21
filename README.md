@@ -1,13 +1,14 @@
-![bacteria](./static/images/germs2.jpg)
+![bacteria](./static/images/title_photo.png)
+
 # Improbable Beef and Belly Buttons...*who knew?*
 
 ## Background
-Roza, a researcher working with Improbable Beef, a food company looking for meat alternatives, has a hypothesis that the human belly button is the ideal breeding ground for the type bacteria to synthesize such alternatives.  
+Roza, a researcher working with Improbable Beef, a food company looking for meat alternatives, has a hypothesis that the human belly button is the ideal breeding ground for the type of bacteria to synthesize such alternatives.  
 
-Roza has collected bacteria samples from hundrerds of volunteers and has assembled a great deal of data on these subjects and has a partially completed dashboard that needs some work. With a drop-down menu filtering Subject ID number and the resulting panel of demographic information in place, now some visualization is needed to illustrate the bacterial data for each volunteer. 
+Roza has collected bacteria samples from hundreds of volunteers and has assembled a great deal of data on these subjects and has a partially completed dashboard that needs some work. With a drop-down menu filtering Subject ID number and the resulting panel of demographic information in place, now some visualization is needed to illustrate the bacterial data for each volunteer. 
 
 ## Objective
-The objectivs of this exercise is to add 3 graphs and improve the current formatting.  More specifically,
+The objectives of this exercise is to add 3 graphs and improve the current formatting.  More specifically,
 
 1. **Bar graph**: depict the top 10 bacterial species found in the belly buttons of the volunteers; this enables Improbably Beef to easily see if a volunteer has the 
 2. **Gauge graph**: highlighting the numbers of times per week the volunteer washes their navel; frequency has impact on bacteria.
